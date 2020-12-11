@@ -8,7 +8,7 @@
             "name": "memory_view profile",
             "request": "launch",
             "type": "dart",
-            // "flutterMode": "profile",
+            "flutterMode": "profile",
             "args": []
         }
     ]
